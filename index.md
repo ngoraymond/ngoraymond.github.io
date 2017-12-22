@@ -2,9 +2,7 @@
 
 Title is pretty self explanatory. 
 
-### Assignments List
-
-[Dice](https://ngoraymond.github.io/Dice/)
+### Favorite Assignments List
 
 [Chemotaxis](https://ngoraymond.github.io/Starfield/)
 
@@ -12,16 +10,16 @@ Title is pretty self explanatory.
 
 [Starfield](https://ngoraymond.github.io/Starfield/)
 
+[Original Fractal](https://ngoraymond.github.io/OriginalFractal/)
+
 [Sierpinski Triangle](https://ngoraymond.github.io/SierpinskiTriangle/)
 
 [Lightning](https://ngoraymond.github.io/Lightning/)
 
+[Dice](https://ngoraymond.github.io/Dice/)
+
 [Mineesweeper](https://ngoraymond.github.io/Minesweeper/)
 
-### Jekyll Themes
+[Original Design](https://ngoraymond.github.io/OriginalDesign/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ngoraymond/ngoraymond.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
