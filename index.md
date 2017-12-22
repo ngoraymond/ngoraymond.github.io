@@ -22,4 +22,5 @@ Title is pretty self explanatory.
 
 [Original Design](https://ngoraymond.github.io/OriginalDesign/)
 
-
+## Other
+<img src="https://tomfitzg.files.wordpress.com/2013/03/img_0935.jpg" >  
