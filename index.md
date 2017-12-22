@@ -5,9 +5,12 @@ Title is pretty self explanatory.
 ### Assignments List
 
 [Dice](https://ngoraymond.github.io/Dice/)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Chemotaxis](https://ngoraymond.github.io/Starfield/)
+[Asteroids](https://ngoraymond.github.io/AsteroidsGame/)
+[Starfield](https://ngoraymond.github.io/Starfield/)
+[Sierpinski Triangle](https://ngoraymond.github.io/SierpinskiTriangle/)
+[Lightning](https://ngoraymond.github.io/Lightning/)
+[Mineesweeper](https://ngoraymond.github.io/Minesweeper/)
 
 ### Jekyll Themes
 
