@@ -4,7 +4,7 @@ Title is pretty self explanatory.
 
 ### Favorite Assignments List
 
-[Chemotaxis](https://ngoraymond.github.io/Starfield/)
+[Chemotaxis](https://ngoraymond.github.io/Chemotaxis/)
 
 [Asteroids](https://ngoraymond.github.io/AsteroidsGame/)
 
