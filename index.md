@@ -1,7 +1,5 @@
 ## Links to Raymond Ngo's AP Computer Science A Assignments
 
-Title is pretty self explanatory. 
-
 ### Favorite Assignments List
 
 [Chemotaxis](https://ngoraymond.github.io/Chemotaxis/)
@@ -22,9 +20,16 @@ Title is pretty self explanatory.
 
 [Original Design](https://ngoraymond.github.io/OriginalDesign/)
 
+## Favorite Websites
+
+(reddit.com/r/android)
+
 ## Other
 
 Favorite Speech
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PEC1C4p0k3E" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 Favorite Song
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
