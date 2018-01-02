@@ -22,7 +22,9 @@
 
 ## Favorite Websites
 
-(reddit.com/r/android)
+[Favorite Website Overall](ngoraymond.github.io)
+
+[Favorite Subreddit](reddit.com/r/android)
 
 ## Other
 
