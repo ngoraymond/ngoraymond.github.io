@@ -25,9 +25,4 @@ Title is pretty self explanatory.
 ## Other
 
 
-<iframe 
-	width="560"
-	height="420" 
-	src="http://www.youtube.com/embed/?color=white&amp;theme=light">
-</iframe>
-include youtube.html video="VRQn2utaaJw"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
