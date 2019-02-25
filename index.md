@@ -1,3 +1,11 @@
+# Desperately Trying to Self Learn Javascript
+
+## Links
+
+[Location](https://github.com/ngoraymond/Location)
+
+[Learning how to use APIs](https://github.com/ngoraymond/Learning-HTML)
+
 #  High School Stuff
 
 ## Links to Raymond Ngo's AP Computer Science A Assignments
@@ -30,10 +38,4 @@
 
 ## Other
 
-Favorite Speech
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PEC1C4p0k3E" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-Favorite Song
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+None for now. Check Back Later
