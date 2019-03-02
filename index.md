@@ -1,4 +1,4 @@
-# Desperately Trying to Self Learn Javascript
+# Teaching myself Javascript progress
 
 ## Links
 
