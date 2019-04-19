@@ -1,3 +1,5 @@
+# Better Looking Site In Progress
+
 # Teaching myself Javascript progress
 
 ## Links
@@ -32,7 +34,7 @@
 
 ## Favorite Websites
 
-[Favorite Website Overall](ngoraymond.github.io)
+[Favorite Website Overall](https://ngoraymond.github.io)
 
 
 ## Other
