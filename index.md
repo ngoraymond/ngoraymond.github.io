@@ -1,5 +1,7 @@
 # Better Looking Site In Progress
-
+# Linkedin
+[Linkedin](https://www.linkedin.com/in/raymond-n-719002156/)
+[github](github.com/ngoraymond)
 # Teaching myself Javascript progress
 
 ## Links
